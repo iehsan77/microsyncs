@@ -808,6 +808,7 @@ hr {
   min-height: 77px;
   transition: all 0.3s;
   background: #040402;
+  background: none;
 }
 .cid-tBM2sRrO19 .navbar.opened {
   transition: all 0.3s;
@@ -1642,22 +1643,6 @@ hr {
 .cid-tBLQj8B9Fi h5 {
   color: #101010;
   font-weight: 800;
-}
-.cid-tBLQd6vJIM {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/man-3.jpg");
-}
-.cid-tBLQd6vJIM .mbr-section-title {
-  margin-bottom: 1.8rem;
-}
-.cid-tBLQd6vJIM .mbr-text {
-  margin-bottom: 2.7rem;
-}
-@media (max-width: 767px) {
-  .cid-tBLQd6vJIM .align-center {
-    text-align: center;
-  }
 }
 .cid-rRBIOaOVKu {
   padding-top: 60px;
