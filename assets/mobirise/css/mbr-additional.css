@@ -808,7 +808,6 @@ hr {
   min-height: 77px;
   transition: all 0.3s;
   background: #040402;
-  background: none;
 }
 .cid-tBM2sRrO19 .navbar.opened {
   transition: all 0.3s;
@@ -1138,7 +1137,7 @@ hr {
 .cid-tBM7vAbYQU {
   padding-top: 195px;
   padding-bottom: 105px;
-  background-image: url("../../../assets/images/women-1.jpg");
+  background-image: url("../../../assets/images/women-1.webp");
 }
 .cid-tBM7vAbYQU .mbr-overlay {
   background-color: #000000;
@@ -1491,7 +1490,7 @@ hr {
 .cid-tBLQuFls5n {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x1440.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1440.webp");
 }
 .cid-tBLQuFls5n .mbr-text {
   margin-bottom: 3.2rem;
@@ -1659,7 +1658,7 @@ hr {
   }
 }
 .cid-rRBIOaOVKu .box {
-  background-image: url("../../../assets/images/office-3.jpg");
+  background-image: url("../../../assets/images/office-3.webp");
   background-size: cover;
   background-position: center;
   height: 380px;
@@ -1765,7 +1764,7 @@ hr {
 .cid-tBLQlTSoHo {
   padding-top: 75px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/man-3.jpg");
+  background-image: url("../../../assets/images/man-3.webp");
 }
 @media (max-width: 767px) {
   .cid-tBLQlTSoHo h2 {
@@ -2032,7 +2031,7 @@ hr {
   color: #ffffff;
 }
 .cid-rRBIRc2YW9 {
-  background-image: url("../../../assets/images/man-3.jpg");
+  background-image: url("../../../assets/images/man-3.webp");
 }
 .cid-rRBIRc2YW9 .carousel-item {
   -webkit-justify-content: center;
