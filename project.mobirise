@@ -44,22 +44,6 @@
     "uniqCompNum": 27,
     "versionPublish": "5.8.4",
     "imageResize": true,
-    "chatbutton": {
-      "phone": "+923094160140",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMobirise Team",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": 5,
-      "headerColor": "#e43f3f",
-      "headerTitle": "👋 Chat with us on WhatsApp!",
-      "placeholder": "Type here",
-      "zIndex": 10,
-      "enabled": true
-    },
     "usedWebp": true,
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /\n",
@@ -81,10 +65,11 @@
     },
     "cookiesAlertType": "3",
     "favicon": false,
-    "mbrsiteDomain": "f3hkptwvrg",
+    "mbrsiteDomain": "srh3jegmfv",
     "gdpr": false,
     "global_header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-P4V37RT');</script>\n<!-- End Google Tag Manager -->\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-N371YYX71K\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-N371YYX71K');\n</script>",
-    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P4V37RT\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->"
+    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P4V37RT\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
