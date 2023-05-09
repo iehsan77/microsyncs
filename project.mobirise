@@ -49,7 +49,7 @@
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /\n",
+    "robotsText": "User-agent: *\nDisallow: /admin/\nDisallow: /config/\nDisallow: /download/\nDisallow: /error/\nDisallow: /install/\nDisallow: /js/\nDisallow: /lib/\nDisallow: /logs/\nDisallow: /modules/\nDisallow: /plugins/\nDisallow: /temp/\nDisallow: /tools/",
     "sitemapSwitcher": true,
     "siteUrl": "https://microsyncs.com/",
     "sitemapSwitcherAuto": "on",
