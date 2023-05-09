@@ -44,7 +44,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 62,
+    "uniqCompNum": 63,
     "versionPublish": "5.6.11",
     "imageResize": true,
     "usedWebp": true,
@@ -1536,6 +1536,24 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n[JS_CODE_0]\n<!-- ads-012 -->\n<ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-2196946927712019\" data-ad-slot=\"2857868444\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n[JS_CODE_1]",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_sourceTheme": "mobirise5",
+          "_anchor": "custom-html-1q",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2196946927712019\"\n     crossorigin=\"anonymous\"></script>",
+            "<script>\n     (adsbygoogle = window.adsbygoogle || []).push({});\n</script>"
+          ]
         },
         {
           "alias": false,

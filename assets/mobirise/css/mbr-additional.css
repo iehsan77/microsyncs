@@ -2018,6 +2018,18 @@ a {
 .cid-tDxHwe5HII .card-text-link {
   color: #e43f3f;
 }
+#custom-html-1q {
+  /* Type valid CSS here */
+}
+#custom-html-1q div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-1q p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-tDxGM21PvX {
   padding-top: 5rem;
   padding-bottom: 5rem;
