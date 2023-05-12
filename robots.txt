@@ -1,13 +1,2 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /config/
-Disallow: /download/
-Disallow: /error/
-Disallow: /install/
-Disallow: /js/
-Disallow: /lib/
-Disallow: /logs/
-Disallow: /modules/
-Disallow: /plugins/
-Disallow: /temp/
-Disallow: /tools/
+Disallow:
