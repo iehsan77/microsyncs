@@ -1748,9 +1748,6 @@
             },
             ".mbr-gallery-filter ul li .btn:after": {
               "transform": "none !important"
-            },
-            ".mbr-gallery-item > div > span": {
-              "color": "#353535"
             }
           },
           "_name": "gallery1",
@@ -1833,7 +1830,7 @@
                 "alt": "ExportMania",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "ExportMania",
+                "caption": "DoctorOnline",
                 "active": false
               },
               {
@@ -1885,7 +1882,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Khairiat - New Application",
+                "caption": "Clinical Pearl",
                 "active": false
               }
             ]

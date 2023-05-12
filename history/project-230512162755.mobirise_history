@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "microsyncs",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1748,9 +1748,6 @@
             },
             ".mbr-gallery-filter ul li .btn:after": {
               "transform": "none !important"
-            },
-            ".mbr-gallery-item > div > span": {
-              "color": "#353535"
             }
           },
           "_name": "gallery1",
@@ -1833,7 +1830,7 @@
                 "alt": "ExportMania",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "ExportMania",
+                "caption": "DoctorOnline",
                 "active": false
               },
               {
@@ -1873,19 +1870,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Cryptocurrency",
-                "active": false
-              },
-              {
-                "tags": "Mobile Apps",
-                "videoPreview": "@ADDONS_PATH@/successm4/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/screen.webp",
-                "thumb": "@PROJECT_PATH@/assets/images/screen.webp",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Khairiat - New Application",
                 "active": false
               }
             ]

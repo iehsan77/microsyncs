@@ -2206,6 +2206,9 @@ a {
 .cid-tDzR8KhoJj .mbr-gallery-filter ul li .btn:after {
   transform: none !important;
 }
+.cid-tDzR8KhoJj .mbr-gallery-item > div > span {
+  color: #353535;
+}
 .cid-tDxOLfzQeg {
   padding-top: 5rem;
   padding-bottom: 5rem;
