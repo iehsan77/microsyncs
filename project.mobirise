@@ -68,7 +68,7 @@
     },
     "cookiesAlertType": "1",
     "favicon": "@PROJECT_PATH@/assets/images/microsyncs-128x124.png",
-    "mbrsiteDomain": "wr51nkh3na",
+    "mbrsiteDomain": "l4muw5r5q6",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
@@ -77,7 +77,22 @@
     },
     "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-N371YYX71K\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-N371YYX71K');\n</script>",
     "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P4V37RT\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
-    "chatbutton": {},
+    "chatbutton": {
+      "phone": "+923094160140",
+      "message": "",
+      "size": "65px",
+      "backgroundColor": "#e43f3f",
+      "position": "left",
+      "popupMessage": "Hi!👋\n\nType a message here. It will go straight to our phone! 🔥\n\nMicroSyncs Team",
+      "showPopup": true,
+      "showOnIE": true,
+      "autoOpenTimeout": "5",
+      "headerColor": "#e43f3f",
+      "headerTitle": "👋 Chat with us on WhatsApp!",
+      "placeholder": "Type here",
+      "zIndex": 10,
+      "enabled": true
+    },
     "google-analytics": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P4V37RT\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
     "cssOptimize": true,
     "lazyLoad": true,
@@ -91,7 +106,8 @@
         "meta_descr": "Leading software company offering innovative solutions to empower businesses. Transform your digital landscape with our expert software services. Contact us now!",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1339.jpg"
       },
       "components": [
         {
@@ -2465,7 +2481,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "1"
+        "order": "1",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg"
       },
       "components": [
         {
@@ -4036,7 +4053,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "2"
+        "order": "2",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1280.jpg"
       },
       "components": [
         {
@@ -5365,7 +5383,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "3"
+        "order": "3",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-3-1920x1280.jpg"
       },
       "components": [
         {
@@ -6881,7 +6900,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "4"
+        "order": "4",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg"
       },
       "components": [
         {
@@ -8397,7 +8417,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "5"
+        "order": "5",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-4-1920x1280.jpg"
       },
       "components": [
         {
@@ -9916,7 +9937,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "7"
+        "order": "7",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg"
       },
       "components": [
         {
@@ -11193,7 +11215,8 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": "6"
+        "order": "6",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-5-1920x1280.jpg"
       },
       "components": [
         {
