@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "microsyncs",
-    "currentPage": "policy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,7 +45,7 @@
       }
     ],
     "uniqCompNum": 96,
-    "versionPublish": "5.8.4",
+    "versionPublish": "5.6.11",
     "imageResize": true,
     "usedWebp": true,
     "robotsSwitcher": true,
@@ -68,14 +68,14 @@
     },
     "cookiesAlertType": "1",
     "favicon": "@PROJECT_PATH@/assets/images/microsyncs-128x124.png",
-    "mbrsiteDomain": "j2z4rxad30",
+    "mbrsiteDomain": "uhmxai2fog",
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GT-T56L782\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'GT-T56L782');\n</script>",
+    "global_header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
     "global_after_body": "",
     "chatbutton": {
       "phone": "+923094160140",
@@ -104,7 +104,7 @@
         "main": true,
         "title": "Innovative Software Solutions | MicroSyncs - Your Trusted Software Partner",
         "meta_descr": "Leading software company offering innovative solutions to empower businesses. Transform your digital landscape with our expert software services. Contact us now!",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GT-T56L782\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'GT-T56L782');\n</script>",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1339.jpg"
@@ -2478,7 +2478,7 @@
       "settings": {
         "title": "MicroSyncs - Contact Us",
         "meta_descr": "Get in touch with our top-notch software company and unlock the potential of your business. Contact us now for personalized solutions and exceptional service.",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GT-T56L782\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'GT-T56L782');\n</script>",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "1",
@@ -9934,7 +9934,7 @@
       "settings": {
         "title": "MicroSyncs - Privacy &amp; Policy",
         "meta_descr": "Read and understand our transparent Terms of Service. Clear guidelines for a smooth user experience. Explore our Terms of Service now.",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GT-T56L782\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'GT-T56L782');\n</script>",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "7",
@@ -11212,7 +11212,7 @@
       "settings": {
         "title": "MicroSyncs - Terms of Service",
         "meta_descr": "Read and understand our transparent Terms of Service. Clear guidelines for a smooth user experience. Explore our Terms of Service now.",
-        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script><!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GT-T56L782\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'GT-T56L782');\n</script>\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GT-T56L782\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'GT-T56L782');\n</script>",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "6",
