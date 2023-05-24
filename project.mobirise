@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "microsyncs",
-    "currentPage": "index.html",
+    "currentPage": "policy.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -104,7 +104,7 @@
         "main": true,
         "title": "Innovative Software Solutions | MicroSyncs - Your Trusted Software Partner",
         "meta_descr": "Leading software company offering innovative solutions to empower businesses. Transform your digital landscape with our expert software services. Contact us now!",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1920x1339.jpg"
@@ -2478,7 +2478,7 @@
       "settings": {
         "title": "MicroSyncs - Contact Us",
         "meta_descr": "Get in touch with our top-notch software company and unlock the potential of your business. Contact us now for personalized solutions and exceptional service.",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "1",
@@ -4050,7 +4050,7 @@
       "settings": {
         "title": "MicroSyncs - About Us",
         "meta_descr": "Trusted software company delivering innovative solutions. Expertise, excellence, and customer satisfaction at the core of our services. Discover more about us.",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "2",
@@ -5380,7 +5380,7 @@
       "settings": {
         "title": "MicroSyncs - Website Development",
         "meta_descr": "Boost your online presence with our professional website development services. Create a stunning website tailored to your business goals. Contact us today.",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "3",
@@ -6897,7 +6897,7 @@
       "settings": {
         "title": "MicroSyncs - Mobile Application Development",
         "meta_descr": "Empower your business with cutting-edge mobile development solutions. Reach your audience on the go with our expert mobile app development services. Contact us now!",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "4",
@@ -8414,7 +8414,7 @@
       "settings": {
         "title": "MicroSyncs - Custom Software Development",
         "meta_descr": "Unlock the potential of your business with our custom software development solutions. Tailored to your unique needs for optimal performance. Contact us today!",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "5",
@@ -9934,7 +9934,7 @@
       "settings": {
         "title": "MicroSyncs - Privacy &amp; Policy",
         "meta_descr": "Read and understand our transparent Terms of Service. Clear guidelines for a smooth user experience. Explore our Terms of Service now.",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "7",
@@ -11212,7 +11212,7 @@
       "settings": {
         "title": "MicroSyncs - Terms of Service",
         "meta_descr": "Read and understand our transparent Terms of Service. Clear guidelines for a smooth user experience. Explore our Terms of Service now.",
-        "header_custom": "",
+        "header_custom": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-BYFBWJVGKF\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-BYFBWJVGKF');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": "6",
